@@ -21,7 +21,7 @@ local luamin = require(luaminDestination)
 ```
 Here is how you can also use it (can help out):
 luamin.Minify(code/src <string>, renameGlobals <boolean>) -- Minify
-luamin.Beautify(code/src <string>, renameVars <boolean>, renameGlobals <boolean>) -- Beautify
+luamin.Beautify(code/src < string >, renameVars < boolean >, renameGlobals < boolean >) -- Beautify
 
 booleans are basically like yes/no.
 false = no
